@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chris Mosier</h1>
 <h3 align="center">I am a mission-driven technologist, educator, project leader, and software developer with deep knowledge and expertise in leading the development of innovative enhanced learning programs and digital tools, products, and experiences.</h3>
 
+- 💬 Ask me about **instructional design**
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cmosier-lil" alt="cmosier-lil" /></a> </p>
 
-- 💬 Ask me about **instructional design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
